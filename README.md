@@ -3,7 +3,8 @@
 Welcome to react admin dashboard
 
 To clone this repo:
-use following command in git bash
+use following command in git bash:
+
 $ git clone https://github.com/freelancefullstackdev/react-admin-dashboard.git
 
 after cloning the repom go to the 'react-admin-dashboard' directory
