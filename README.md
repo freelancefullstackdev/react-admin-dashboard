@@ -18,7 +18,7 @@ or
 $ npm install
 
 
-NOTE: it night take around 5 minutes, since syncfusion modules are used in this project which cause the longer download time.
+NOTE: it might take around 5 minutes, since syncfusion modules are used in this project which cause the longer download time.
 
 after installing node modules, 
 run following command to start the project:
